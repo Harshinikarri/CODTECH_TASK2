@@ -23,9 +23,9 @@ Project: Student Grade Tracker
 
 ### Key Activities
 
-1. User Input: Allow users to input subject marks.
-2. Calculation: Perform average calculation of the given subject marks.
-3. Output: Display the grade as output.
+1. **User Input**: Allow users to input subject marks.
+2. **Calculation**: Perform average calculation of the given subject marks.
+3. **Output**: Display the grade as output.
 
 ## Error Handling
 
