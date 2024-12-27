@@ -11,7 +11,7 @@
 **Mentor:** Santhosh Kumar Neela
 
 
-### Project Overview
+### Overview of the project
 
 Project: Student Grade Tracker
 
