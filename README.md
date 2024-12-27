@@ -1,9 +1,9 @@
--**Name**: Karri Harshini Rama Rajya Sai Lakshmi.
--**Company**: CODTECH IT SOLUTIONS
--**ID**: CT08EXA
--**Domain**: Java Programming
--**Duration**: December 2024 - January 2025
--**Mentor**: Santhosh Kumar Neela
+**Name**: Karri Harshini Rama Rajya Sai Lakshmi.
+**Company**: CODTECH IT SOLUTIONS
+**ID**: CT08EXA
+**Domain**: Java Programming
+**Duration**: December 2024 - January 2025
+**Mentor**: Santhosh Kumar Neela
 
 
 ###Project Overview
